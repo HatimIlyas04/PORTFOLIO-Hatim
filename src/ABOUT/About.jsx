@@ -9,12 +9,12 @@ import animationHero from '../ANIMATION/hero.json'
 
 function About() {
   return (
-    <div className='container-about '>
+    <div className='container-about'>
       <section className='hero-about flex '>
         <div className='left'>
 
 
-          <h1 className='title-about'>I’m Hatim Ilyas. I live in CasaBlanca City, where I design the future.</h1>
+          <h1 className='title-about my-name'>I’m Hatim Ilyas. I live in CasaBlanca City, where I design the future.</h1>
           <p className='subtitle'>I’ve loved making things for as long as I can remember, and wrote my first program when I was 6 years old, just two weeks after my mom brought home the brand new Macintosh LC 550 that I taught myself to type on. <br /><br />
 
             The only thing I loved more than computers as a kid was space. When I was 8, I climbed the 40-foot oak tree at the back of our yard while wearing my older sister’s motorcycle helmet, counted down from three, and jumped — hoping the tree was tall enough that with just a bit of momentum I’d be able to get to orbit. <br /><br />

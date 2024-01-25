@@ -3,7 +3,14 @@ section.hero-about .left {
     flex-grow: 1;
     margin-right: 70px; 
 }
-
+.my-name{
+    color: var(--title);
+    opacity: 0.9;
+    font-size: 0.99rem;
+    font-weight: 500;
+    font-family: cursive;
+    margin-right: 22px; 
+}
 
 
 .icon-about {
@@ -24,7 +31,7 @@ section.hero-about .avatar-me {
 }
 
 .container-about {
-    width: 70%;
+    width: 59%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 90px;
@@ -98,4 +105,9 @@ section.hero-about .icons-about {
         display: flex;
         transform: translateY(100px);
     }
+    .{
+        margin-left:20px ;
+    }
+
+    
 }
