@@ -12,11 +12,7 @@ html {
     box-sizing: border-box;
 }
 
-*,
-*before,
-*after {
-    box-sizing: inherit;
-}
+
 
 * {
     margin: 0;
@@ -151,9 +147,9 @@ button {
   
    
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     .container {
-        width: 94%;
+        width: 102%;
         padding: 0.7rem;
     }
 
