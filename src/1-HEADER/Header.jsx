@@ -57,10 +57,10 @@ function Header() {
                 <img width="35" height="35" src="https://img.icons8.com/sf-black-filled/64/FFFFFF/x.png" alt="x" />
               </button>
             </li>
-            <li><Link to={'/'}>Home</Link></li>
-            <li><Link to={'/About'}>About</Link></li>
-            <li><Link to={'/projects'} >Projects</Link></li>
-            <li><Link to={'/contact'}>Contact</Link></li>
+            <li><Link to={'/'} onClick={HideModal}>Home</Link></li>
+            <li><Link to={'/About'} onClick={HideModal}>About</Link></li>
+            <li><Link to={'/projects'} onClick={HideModal}>Projects</Link></li>
+            <li><Link to={'/contact'}onClick={HideModal}>Contact</Link></li>
           </ul>
         </div>
       )}

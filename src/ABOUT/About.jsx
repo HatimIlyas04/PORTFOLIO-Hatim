@@ -9,11 +9,11 @@ import animationHero from '../ANIMATION/hero.json'
 
 function About() {
   return (
-    <div className='container-about'>
+    <div className='container-about '>
       <section className='hero-about flex '>
         <div className='left'>
 
-
+          
           <h1 className='title-about my-name'>I’m Hatim Ilyas. I live in CasaBlanca City, where I design the future.</h1>
           <p className='subtitle'>I’ve loved making things for as long as I can remember, and wrote my first program when I was 6 years old, just two weeks after my mom brought home the brand new Macintosh LC 550 that I taught myself to type on. <br /><br />
 
@@ -33,7 +33,7 @@ function About() {
           animate={{ opacity: 1, transform: 'scale(1)' }}
           transition={{ duration: 0.9 }}
           >
-            <img src="/IMAGES-ME/ilyas.jpg" alt="" className='avatar-me' />
+            <img id='img' src="/IMAGES-ME/ilyas.jpg" alt="" className='avatar-me' />
           </motion.div>
           <div className="icons-about ">
 

@@ -149,8 +149,8 @@ button {
 
 @media (max-width: 400px) {
     .container {
-        width: 102%;
-        padding: 0.7rem;
+        width: 100%;
+        padding-left: -50px;
     }
 
     .scroll2up{
