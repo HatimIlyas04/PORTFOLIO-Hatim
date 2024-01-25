@@ -1,0 +1,167 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    font-family: 'Robot' sans-serif;
+    letter-spacing: 0.1px;
+    scroll-behavior: smooth;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*before,
+*after {
+    box-sizing: inherit;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --primary: #000;
+    --secondary: rgb(24, 24, 27);
+    --border: rgba(63, 63, 70, 0.4);
+    --title: rgba(244, 244, 245);
+    --subtitle: rgba(161, 161, 170);
+    --bgHeader: rgb(39, 39, 42);
+    --blue: rgb(93, 188, 252);
+    --move: rgba(106, 12, 164, 0.41);
+
+}
+
+.light {
+    --primary: #ffffff;
+    --secondary: rgb(255, 255, 255);
+    --border: rgba(202, 202, 202, 0.518);
+    --title: rgba(39, 39, 42);
+    --subtitle: rgba(82, 82, 91);
+    --bgHeader: rgb(253, 253, 253);
+    --blue: rgb(0, 149, 246);
+    --move: rgba(0, 0, 0);
+}
+
+body {
+    background-color: var(--primary);
+    color: #ffffff;
+}
+
+.container {
+    border: 2px solid var(--border);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--secondary);
+    padding: 0 4.8rem;
+
+}
+
+.divider {
+    border-bottom: 1px solid var(--border);
+    margin: 3rem 0;
+    width: calc(100% + 4.8rem + 4.8rem);
+    margin-left: -4.8rem;
+
+
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: initial;
+    transition: 0.2s;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.border {
+    border: solid red 2px;
+}
+
+button {
+    all: unset;
+}
+
+
+.scroll2up{
+    position: fixed;
+    bottom: 9px;
+    right: 3%;
+    opacity: 0.5;
+    transition: 0.3s;
+
+}
+
+.scroll2up:hover{
+    opacity: 1;
+}
+
+@media (max-width: 1700px) {
+    .container {
+        width: 90%;
+        padding: 0.7rem;
+    }
+
+    .divider {
+        width: calc(100% + 0.7rem + 0.7rem);
+        margin-left: -0.7rem;
+    }
+
+    .scroll2up{
+        right: 1%;
+    }
+
+    
+
+    
+
+
+
+
+}
+
+::-webkit-scrollbar {
+    width: 0.7rem;
+   }
+   
+  
+   
+  ::-webkit-scrollbar-thumb {
+    background: var(--move);
+    border-radius: 2px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(234, 251, 255, 0.25);
+  }
+
+  
+   
+  
+   
+
+@media (max-width: 600px) {
+    .container {
+        width: 94%;
+        padding: 0.7rem;
+    }
+
+    .scroll2up{
+        right: 3%;
+    }
+
+    
+
+
+}

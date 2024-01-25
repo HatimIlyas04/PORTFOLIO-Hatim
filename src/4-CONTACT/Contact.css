@@ -1,0 +1,104 @@
+section.contact-us .icon-envelope {
+    font-size: 1.8rem;
+    margin-right: 1rem;
+}
+
+.contact-us{
+    margin-top: 50px;
+}
+
+section.contact-us .titl {
+    font-size: 2.1rem;
+    color: var(--title);
+    margin-bottom: 1rem;
+}
+
+section.contact-us .subtitle {
+    color: var(--subtitle);
+    margin-bottom: 0.19rem;
+    line-height: 1.65rem;
+}
+
+section.contact-us label {
+    color: var(--subtitle);
+}
+
+#message,
+#email {
+    all: unset;
+    background-color: rgba(63, 63, 70, 0.15);
+    border: solid 1px var(--move);
+    width: 16rem;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    border-radius: 5px;
+}
+
+#message {
+    height: 100px;
+    resize: vertical;
+}
+
+
+
+.submit {
+    background-color: rgba(36, 37, 46, 1);
+    width: 9rem;
+    padding: 0.75rem 0;
+    text-align: center;
+    font-size: 1.05rem;
+    opacity: 0.5;
+    border-radius: 5px;
+    transition: 0.3s;
+    margin-top: 20px;
+    margin-left: 122px;
+    border: 2px solid var(--move);
+}
+
+.animation {
+    margin-left: auto; 
+}
+.submit:hover {
+    opacity: 1;
+    box-shadow: 3px 3px 40px 3px var(--move);
+}
+
+@media (max-width: 600px) {
+    .animation {
+        display: none;
+    }
+
+    section.contact-us .subtitle {
+        margin-bottom: 3rem;
+    }
+
+    section.contact-us form {
+        display: flex;
+        flex-direction: column;
+        width: 68%;
+    }
+
+    section.contact-us form div.flex {
+        flex-direction: column;
+        align-items: start;
+    }
+
+    #message,
+    #email {
+        width: 100%;
+        margin-left: 0;
+        padding: 0.5rem 1rem; /* Adjusted padding */
+        margin-top: 1rem;
+    }
+
+    .submit {
+        margin-right: 0; /* Adjusted margin */
+        align-self: center;
+    }
+}
+
+@media (max-width:940px) {
+    .animation{
+        display: none;
+    }
+}
