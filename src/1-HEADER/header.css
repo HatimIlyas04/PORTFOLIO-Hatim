@@ -8,18 +8,22 @@ header.flex nav {
     border-radius: 55px;
     box-shadow: 3px 3px 40px 3px var(--move);
 }
+.navbar-links{
+    margin-left: 16px;
+}
 
 header ul li a {
     color: var(--title);
     opacity: 0.9;
-    font-size: 0.88rem;
+    font-size: 0.99rem;
     font-weight: 500;
+    font-family: cursive;
+    margin-right: 22px; 
 }
 
 header ul li a:hover {
     color: var(--title);
     opacity: 0.9;
-    font-size: 0.88rem;
     font-weight: 500;
     color: var(--blue);
 
@@ -151,6 +155,9 @@ button:hover{
 
     header button.menu {
         display: block;
+    }
+    header ul li a {
+        margin-right: 0; 
     }
 
     
