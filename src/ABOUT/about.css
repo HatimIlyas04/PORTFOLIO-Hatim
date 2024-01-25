@@ -31,7 +31,11 @@ section.hero-about .avatar-me {
 }
 
 .container-about {
+<<<<<<< HEAD
     width: 59%;
+=======
+    width: 65%;
+>>>>>>> 42bc8cdafa0dbfd0b058ff8e051e43d65c320b96
     margin-left: auto;
     margin-right: auto;
     margin-top: 90px;
@@ -105,9 +109,12 @@ section.hero-about .icons-about {
         display: flex;
         transform: translateY(100px);
     }
+<<<<<<< HEAD
     .{
         margin-left:20px ;
     }
+=======
+>>>>>>> 42bc8cdafa0dbfd0b058ff8e051e43d65c320b96
 
     
 }
