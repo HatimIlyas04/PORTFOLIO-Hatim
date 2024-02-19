@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <repository_URL>
+git clone (https://github.com/HatimIlyas04/PORTFOLIO-Hatim)
 Navigate to the project directory:
 
 bash
