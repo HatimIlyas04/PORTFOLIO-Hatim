@@ -36,7 +36,14 @@ npm run dev
 Open your browser and visit http://localhost:3000 to view the portfolio.
 
 ## 📸 Screenshots
-Here are some screenshots of the portfolio:
+Here are some screenshots of the portfolio: 
+
+## 📸 Screenshots
+
+
+![Screenshot 2](![Capture](https://github.com/HatimIlyas04/PORTFOLIO-Hatim/assets/125820069/4bbcae25-702b-4521-aa24-0ee95de40adb)
+)
+
 
 
 
