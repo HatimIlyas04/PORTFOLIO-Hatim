@@ -38,12 +38,11 @@ Open your browser and visit http://localhost:3000 to view the portfolio.
 ## 📸 Screenshots
 Here are some screenshots of the portfolio: 
 
-## 📸 Screenshots
 
-
-![Screenshot](Capture.PNG)
-![Screenshot](Capture1.PNG)
-![Screenshot](Capture2.PNG)
+![Screenshot](Capture4.PNG)
+![Screenshot](Capture5.PNG)
+![Screenshot](Capture6.PNG)
+![Screenshot](Capture7.PNG)
 
 
 
