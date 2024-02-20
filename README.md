@@ -41,7 +41,7 @@ Here are some screenshots of the portfolio:
 ## 📸 Screenshots
 
 
-![Screenshot](C:\capture.png)
+![Screenshot](Capture.PNG)
 
 
 
