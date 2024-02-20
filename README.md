@@ -42,6 +42,8 @@ Here are some screenshots of the portfolio:
 
 
 ![Screenshot](Capture.PNG)
+![Screenshot](Capture1.PNG)
+![Screenshot](Capture2.PNG)
 
 
 
