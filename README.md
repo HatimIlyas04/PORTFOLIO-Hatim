@@ -41,7 +41,7 @@ Here are some screenshots of the portfolio:
 ## 📸 Screenshots
 
 
-![Screenshot 2](![Capture](https://github.com/HatimIlyas04/PORTFOLIO-Hatim/assets/125820069/4bbcae25-702b-4521-aa24-0ee95de40adb)
+![Screenshot 2](C:\capture.png)
 )
 
 
