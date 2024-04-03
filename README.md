@@ -15,6 +15,15 @@ A visually stunning portfolio showcasing projects, skills, and achievements. Bui
 - styled-components
 - Vite
 - JavaScript (ES6+)
+📸 Screenshots
+Here are some screenshots of the portfolio:
+
+<div style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="Capture4.PNG" alt="Screenshot 1" style="width: 45%; margin-bottom: 10px;">
+  <img src="Capture5.PNG" alt="Screenshot 2" style="width: 45%; margin-bottom: 10px;">
+  <img src="Capture6.PNG" alt="Screenshot 3" style="width: 45%; margin-bottom: 10px;">
+  <img src="Capture7.PNG" alt="Screenshot 4" style="width: 45%; margin-bottom: 10px;">
+</div>
 
 ## 📦 Installation
 
@@ -39,15 +48,6 @@ Copy code
 npm run dev
 Open your browser and visit http://localhost:3000 to view the portfolio.
 
-📸 Screenshots
-Here are some screenshots of the portfolio:
-
-<div style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="Capture4.PNG" alt="Screenshot 1" style="width: 45%; margin-bottom: 10px;">
-  <img src="Capture5.PNG" alt="Screenshot 2" style="width: 45%; margin-bottom: 10px;">
-  <img src="Capture6.PNG" alt="Screenshot 3" style="width: 45%; margin-bottom: 10px;">
-  <img src="Capture7.PNG" alt="Screenshot 4" style="width: 45%; margin-bottom: 10px;">
-</div>
 📝 Feedback
 If you have any feedback or suggestions, feel free to open an issue or reach out to me.
 
