@@ -15,7 +15,8 @@ A visually stunning portfolio showcasing projects, skills, and achievements. Bui
 - styled-components
 - Vite
 - JavaScript (ES6+)
-📸 Screenshots
+
+## 📸 Screenshots
 Here are some screenshots of the portfolio:
 
 <div style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: space-between;">
