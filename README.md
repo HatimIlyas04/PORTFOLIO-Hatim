@@ -67,6 +67,13 @@ A visually stunning portfolio showcasing projects, skills, and achievements. Bui
 - Interactive Components: Engage visitors with interactive elements and smooth transitions.
 - Fast Performance: Optimized for speed and performance using Vite.
 
+<div class="screenshot">
+  <img src="Capture4.PNG" alt="Screenshot 1">
+  <img src="Capture5.PNG" alt="Screenshot 2">
+  <img src="Capture6.PNG" alt="Screenshot 3">
+  <img src="Capture7.PNG" alt="Screenshot 4">
+</div>
+
 ## 🛠️ Technologies Used
 
 - React
@@ -80,40 +87,8 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/HatimIlyas04/PORTFOLIO-Hatim
-
-Navigate to the project directory:
-
-bash
-Copy code
 cd portfolio
-Install dependencies:
-
-bash
-Copy code
 npm install
-Start the development server:
-
-bash
-Copy code
 npm run dev
 Open your browser and visit http://localhost:3000 to view the portfolio.
 
-## 📸 Screenshots
-Here are some screenshots of the portfolio: 
-
-
-![Screenshot](Capture4.PNG)
-![Screenshot](Capture5.PNG)
-![Screenshot](Capture6.PNG)
-![Screenshot](Capture7.PNG)
-
-
-
-
-
-
-## 📝 Feedback
-If you have any feedback or suggestions, feel free to open an issue or reach out to me.
-
-## 📄 License
-This project is licensed under the MIT License. Feel free to use and modify it for your own projects.
