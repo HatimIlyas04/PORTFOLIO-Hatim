@@ -8,6 +8,7 @@ A visually stunning portfolio showcasing projects, skills, and achievements. Bui
 - Responsive Layout: Ensures seamless access on various devices and screen sizes.
 - Interactive Components: Engage visitors with interactive elements and smooth transitions.
 - Fast Performance: Optimized for speed and performance using Vite.
+- CHI 7AJA HRBAANA
 
 ## 🛠️ Technologies Used
 
