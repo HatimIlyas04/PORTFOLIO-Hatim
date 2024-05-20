@@ -4,7 +4,7 @@ import Lottie from "lottie-react";
 import { motion } from 'framer-motion';
 
 // @ts-ignore
-// import animationHero from '../ANIMATION/hero.json'
+import animationHero from '../ANIMATION/hero.json'
 
 function Hero() {
   return (
