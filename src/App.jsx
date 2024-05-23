@@ -4,7 +4,7 @@ import Hero from './2-HERO/Hero';
 import Header from './1-HEADER/Header';
 import Main from './3-MAIN/Main'; 
 import Footer from './5-FOOTER/Footer';
-import Contact from './4-CONTACT/Contact';
+import Contact from './4-CONTACT/Contact'; 
 import About from './ABOUT/About';
  
 const App = () => {
