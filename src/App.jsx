@@ -11,7 +11,7 @@ const App = () => {
   const [showScrollUp, setShowScrollUp] = useState(false);
 
   useEffect(() => {
-    const handleScroll = () => {
+    const handleScroll = () => { 
       if (window.scrollY > 300) {
         setShowScrollUp(true);
       } else {
