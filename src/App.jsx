@@ -7,7 +7,7 @@ import Footer from './5-FOOTER/Footer';
 import Contact from './4-CONTACT/Contact'; 
 import About from './ABOUT/About';
  
-const App = () => {
+const App = () => { 
   const [showScrollUp, setShowScrollUp] = useState(false);
 
   useEffect(() => {
