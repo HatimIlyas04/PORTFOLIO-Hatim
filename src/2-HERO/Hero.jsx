@@ -18,7 +18,7 @@ function Hero() {
           animate={{ opacity: 1, transform: 'scale(1)' }}
           transition={{ duration: 0.9 }}
           >
-            <img src="/IMAGES-CARDS/me.jpg" alt="" className='avatar' />
+            <img src="/public/IMAGES-CARDS/me.jpg" alt="" className='avatar' />
             <span><img width="15" height="15" src="https://img.icons8.com/ios-glyphs/30/22C3E6/verified-account--v2.png" alt="verified-account--v2" /></span>
           </motion.div>
           <h1 className='title-about my-name'>Full Stack Dev, founder, and amateur astronaut. </h1>
