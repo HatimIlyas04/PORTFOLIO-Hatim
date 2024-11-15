@@ -21,7 +21,7 @@ function Hero() {
             <img src="./DSC09574.jpg" alt="" className='avatar' />
             <span><img width="15" height="15" src="https://img.icons8.com/ios-glyphs/30/22C3E6/verified-account--v2.png" alt="verified-account--v2" /></span>
           </motion.div>
-          <h1 className='title-about my-name'>Full Stack Dev, founder, and amateur astronaut. </h1>
+          <h1 className='title-about my-name'>Fullz Stack Dev, founder, and amateur astronaut. </h1>
           <p className='subtitle'>I’m Hatim Ilyas, a software designer and entrepreneur based in CasaBlanca City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms.</p>
           <div className="icons flex">
 
